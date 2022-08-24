@@ -2,6 +2,8 @@ package pl.tomasz.springpetclinic.model;
 
 public class Person {
 
+
+
     private String firstName;
     private String lastName;
 
