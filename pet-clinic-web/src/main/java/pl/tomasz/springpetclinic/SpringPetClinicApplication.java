@@ -1,4 +1,4 @@
-package pl.tomasz.springpetclinic.model;
+package pl.tomasz.springpetclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
